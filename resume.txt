@@ -1,6 +1,5 @@
-RISHI RAJ
-+1 (226) 881-3222 | rishiraj6749@gmail.com | Guelph, ON, Canada | linkedin.com/in/rishi-raj-332906310/
-SUMMARY
+arron smith
+ph.no = 1223445675 | location: Germany | website: arron-smith.com
 Dedicated and skilled Associate Data Engineer with expertise in ETL processes, data governance, and report delivery. Experienced
 in designing and implementing security measures, optimizing data workflows, and ensuring data accuracy. Seeking to leverage my
 technical proficiency and analytical abilities to contribute effectively to a dynamic data engineering team.
